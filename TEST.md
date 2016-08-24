@@ -45,3 +45,7 @@ instead of decimal-encoded entites like `&#8212;`.
 <address@example.com>
 
 
+- [x] This is a complete item
+- [ ] This is an incomplete item
+- 
+
