@@ -19,6 +19,8 @@ public class Solution
 
 ```
 
- :smiley:
+* :smiley:
+* :blush:
+* :smirk:
  
  
