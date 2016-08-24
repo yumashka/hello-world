@@ -49,5 +49,6 @@ instead of decimal-encoded entites like `&#8212;`.
 - [ ] This is an incomplete item
 
 
+And, of course emoji! :sparkles: :camel: :boom:
 
 
