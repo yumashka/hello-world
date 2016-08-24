@@ -22,6 +22,6 @@
 3. three
  1. more (single space indent in enough)
  2. and more
-  3. do more list
-  4. and more
+  1. do more list
+  2. and more
 
