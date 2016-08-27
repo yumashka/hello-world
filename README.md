@@ -31,6 +31,3 @@
 - [ ] this is an incomplete item
 
 
-@yumashka
-
-:smile:
