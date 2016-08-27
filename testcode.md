@@ -22,5 +22,14 @@ public class Solution
 * :smiley:
 * :blush:
 * :smirk:
- 
- 
+
+```c
+#include <stdio.h>
+
+int main (void)
+{
+  puts ("Hello, World!");
+  return 0;
+}
+```
+
